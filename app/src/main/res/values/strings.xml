@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Implizit Intents</string>
+
+    <string-array name="actions">
+
+        <item>Website aufrufen</item>
+        <item>Datum in den Settings ändern</item>
+        <item>Eine SMS schreiben</item>
+        <item>Eine Telefonnummer wählen</item>
+        <item>Eine Email schreiben</item>
+        <item>Die Kontakte aufrufen</item>
+
+    </string-array>
+
+</resources>
